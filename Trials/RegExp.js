@@ -1,0 +1,1 @@
+console.log("Hello heman".replace(/he/ig, "?"));
